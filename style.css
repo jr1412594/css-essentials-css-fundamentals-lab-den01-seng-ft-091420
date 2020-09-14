@@ -11,10 +11,7 @@ nav a {
   padding: 10px;
   background-color: red;
 }
-p {
-  margin-right: auto;
-  margin-left: auto;
-  width: 50%;
+
 }
 #featured-property p {
   width: 800px;
