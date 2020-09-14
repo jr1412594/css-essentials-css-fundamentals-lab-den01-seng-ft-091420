@@ -7,7 +7,7 @@ h1, nav, p {
   text-align: center;
 }
 
-section img {
+section > img {
   text-align: center;
 }
 
