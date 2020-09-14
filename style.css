@@ -29,7 +29,7 @@ figcaption {
   margin-left: auto;
 }
 
-#details div{
+#details {
   position: fixed;
   left: 0;
   right: 0;
