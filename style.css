@@ -11,7 +11,11 @@ nav a {
   padding: 10px;
   background-color: red;
 }
-
+img {
+  display: block;
+  margin-right: 50%;
+  
+}
 }
 #featured-property p {
   width: 800px;
