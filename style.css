@@ -7,8 +7,8 @@ h1, nav, p {
   text-align: center;
 }
 
-#featured-property img {
-  margin-left: auto;
+img {
+  text-align: center;
 }
 
 nav a {
