@@ -7,8 +7,9 @@ h1, nav, p {
   text-align: center;
 }
 
-.featured-property img {
+img {
   text-align: center;
+  border-color: red;
 }
 
 nav a {
