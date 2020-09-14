@@ -25,5 +25,5 @@ figcaption {
 
 #featured-property p {
   text-align: center;
-  min-width: 800px
+  max-width: 800px
 }
